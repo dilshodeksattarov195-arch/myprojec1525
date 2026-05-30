@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "uploaderrarse",
+        "uuid": 6042050,
+        "checksum": "768esw"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
